@@ -1,6 +1,6 @@
-# status price chart 
+# zcoin price chart 
 
-status price chart (matplotlib, python)
+zcoin price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
