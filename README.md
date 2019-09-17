@@ -1,6 +1,6 @@
-# komodo price chart 
+# iostoken price chart 
 
-komodo price chart (matplotlib, python)
+iostoken price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
