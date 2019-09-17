@@ -1,6 +1,6 @@
-# steem price chart 
+# nexo price chart 
 
-steem price chart (matplotlib, python)
+nexo price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
