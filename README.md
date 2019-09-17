@@ -1,6 +1,6 @@
-# solve price chart 
+# kyber-network price chart 
 
-solve price chart (matplotlib, python)
+kyber-network price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
