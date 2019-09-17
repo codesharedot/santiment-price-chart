@@ -1,6 +1,6 @@
-# 0x price chart 
+# lambda price chart 
 
-0x price chart (matplotlib, python)
+lambda price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
