@@ -1,6 +1,6 @@
-# crypto-com price chart 
+# status price chart 
 
-crypto-com price chart (matplotlib, python)
+status price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
