@@ -1,6 +1,6 @@
-# aelf price chart 
+# grin price chart 
 
-aelf price chart (matplotlib, python)
+grin price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
