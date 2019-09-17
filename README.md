@@ -1,6 +1,6 @@
-# dragon-coins price chart 
+# stasis-euro price chart 
 
-dragon-coins price chart (matplotlib, python)
+stasis-euro price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
