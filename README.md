@@ -1,6 +1,6 @@
-# bytecoin-bcn price chart 
+# pundi-x price chart 
 
-bytecoin-bcn price chart (matplotlib, python)
+pundi-x price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
