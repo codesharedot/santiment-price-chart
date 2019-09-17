@@ -1,6 +1,6 @@
-# theta price chart 
+# 0x price chart 
 
-theta price chart (matplotlib, python)
+0x price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
