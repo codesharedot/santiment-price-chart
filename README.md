@@ -1,6 +1,6 @@
-# metaverse price chart 
+# golem-network-tokens price chart 
 
-metaverse price chart (matplotlib, python)
+golem-network-tokens price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
