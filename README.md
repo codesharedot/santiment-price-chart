@@ -1,6 +1,6 @@
-# ardor price chart 
+# enjin-coin price chart 
 
-ardor price chart (matplotlib, python)
+enjin-coin price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
