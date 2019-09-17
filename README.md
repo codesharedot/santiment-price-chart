@@ -1,6 +1,6 @@
-# siacoin price chart 
+# verge price chart 
 
-siacoin price chart (matplotlib, python)
+verge price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
