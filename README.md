@@ -1,6 +1,6 @@
-# pundi-x price chart 
+# komodo price chart 
 
-pundi-x price chart (matplotlib, python)
+komodo price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
