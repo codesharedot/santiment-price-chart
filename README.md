@@ -1,6 +1,6 @@
-# synthetix-network-token price chart 
+# abbc-coin price chart 
 
-synthetix-network-token price chart (matplotlib, python)
+abbc-coin price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
