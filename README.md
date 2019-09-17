@@ -1,6 +1,6 @@
-# rif-token price chart 
+# quant price chart 
 
-rif-token price chart (matplotlib, python)
+quant price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
