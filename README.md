@@ -1,6 +1,6 @@
-# kyber-network price chart 
+# dragon-coins price chart 
 
-kyber-network price chart (matplotlib, python)
+dragon-coins price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
