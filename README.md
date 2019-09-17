@@ -1,6 +1,6 @@
-# elastos price chart 
+# solve price chart 
 
-elastos price chart (matplotlib, python)
+solve price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
