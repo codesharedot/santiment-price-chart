@@ -1,6 +1,6 @@
-# wink-tronbet price chart 
+# beam price chart 
 
-wink-tronbet price chart (matplotlib, python)
+beam price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
