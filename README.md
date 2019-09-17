@@ -1,6 +1,6 @@
-# grin price chart 
+# wax price chart 
 
-grin price chart (matplotlib, python)
+wax price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
