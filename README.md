@@ -1,6 +1,6 @@
-# lisk price chart 
+# holo price chart 
 
-lisk price chart (matplotlib, python)
+holo price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
