@@ -1,6 +1,6 @@
-# nash-exchange price chart 
+# zilliqa price chart 
 
-nash-exchange price chart (matplotlib, python)
+zilliqa price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
