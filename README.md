@@ -1,6 +1,6 @@
-# digibyte price chart 
+# theta price chart 
 
-digibyte price chart (matplotlib, python)
+theta price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
