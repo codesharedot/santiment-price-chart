@@ -1,6 +1,6 @@
-# icon price chart 
+# waves price chart 
 
-icon price chart (matplotlib, python)
+waves price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
