@@ -1,6 +1,6 @@
-# energi price chart 
+# nash-exchange price chart 
 
-energi price chart (matplotlib, python)
+nash-exchange price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
