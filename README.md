@@ -1,6 +1,6 @@
-# quant price chart 
+# monacoin price chart 
 
-quant price chart (matplotlib, python)
+monacoin price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
