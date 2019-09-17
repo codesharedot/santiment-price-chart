@@ -1,6 +1,6 @@
-# holo price chart 
+# algorand price chart 
 
-holo price chart (matplotlib, python)
+algorand price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
