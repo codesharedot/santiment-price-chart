@@ -1,6 +1,6 @@
-# verge price chart 
+# rif-token price chart 
 
-verge price chart (matplotlib, python)
+rif-token price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
