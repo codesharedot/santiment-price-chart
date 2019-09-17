@@ -1,6 +1,6 @@
-# golem-network-tokens price chart 
+# ardor price chart 
 
-golem-network-tokens price chart (matplotlib, python)
+ardor price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
