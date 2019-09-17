@@ -1,6 +1,6 @@
-# maidsafecoin price chart 
+# digibyte price chart 
 
-maidsafecoin price chart (matplotlib, python)
+digibyte price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
