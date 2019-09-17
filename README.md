@@ -1,6 +1,6 @@
-# nexo price chart 
+# synthetix-network-token price chart 
 
-nexo price chart (matplotlib, python)
+synthetix-network-token price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
