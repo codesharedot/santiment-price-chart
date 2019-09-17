@@ -1,6 +1,6 @@
-# aeternity price chart 
+# metaverse price chart 
 
-aeternity price chart (matplotlib, python)
+metaverse price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
