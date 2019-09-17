@@ -1,6 +1,6 @@
-# gxchain price chart 
+# elastos price chart 
 
-gxchain price chart (matplotlib, python)
+elastos price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
