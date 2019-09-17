@@ -1,6 +1,6 @@
-# algorand price chart 
+# icon price chart 
 
-algorand price chart (matplotlib, python)
+icon price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
