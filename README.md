@@ -1,6 +1,6 @@
-# waves price chart 
+# maidsafecoin price chart 
 
-waves price chart (matplotlib, python)
+maidsafecoin price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
