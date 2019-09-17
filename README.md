@@ -1,6 +1,6 @@
-# aurora price chart 
+# bytom price chart 
 
-aurora price chart (matplotlib, python)
+bytom price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
