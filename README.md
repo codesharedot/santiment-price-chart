@@ -1,6 +1,6 @@
-# monacoin price chart 
+# energi price chart 
 
-monacoin price chart (matplotlib, python)
+energi price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
