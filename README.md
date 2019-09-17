@@ -1,6 +1,6 @@
-# enjin-coin price chart 
+# steem price chart 
 
-enjin-coin price chart (matplotlib, python)
+steem price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
