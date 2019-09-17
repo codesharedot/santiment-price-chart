@@ -1,6 +1,6 @@
-# iostoken price chart 
+# dai price chart 
 
-iostoken price chart (matplotlib, python)
+dai price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
