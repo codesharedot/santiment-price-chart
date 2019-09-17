@@ -1,6 +1,6 @@
-# dai price chart 
+# aurora price chart 
 
-dai price chart (matplotlib, python)
+aurora price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
