@@ -1,6 +1,6 @@
-# beam price chart 
+# waltonchain price chart 
 
-beam price chart (matplotlib, python)
+waltonchain price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
