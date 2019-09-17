@@ -1,6 +1,6 @@
-# reddcoin price chart 
+# xmax price chart 
 
-reddcoin price chart (matplotlib, python)
+xmax price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
