@@ -1,6 +1,6 @@
-# abbc-coin price chart 
+# crypto-com price chart 
 
-abbc-coin price chart (matplotlib, python)
+crypto-com price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
