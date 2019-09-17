@@ -1,6 +1,6 @@
-# insight-chain price chart 
+# bitcoin-diamond price chart 
 
-insight-chain price chart (matplotlib, python)
+bitcoin-diamond price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
