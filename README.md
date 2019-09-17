@@ -1,6 +1,6 @@
-# lambda price chart 
+# bitshares price chart 
 
-lambda price chart (matplotlib, python)
+bitshares price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
