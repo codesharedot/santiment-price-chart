@@ -1,6 +1,6 @@
-# waltonchain price chart 
+# reddcoin price chart 
 
-waltonchain price chart (matplotlib, python)
+reddcoin price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
