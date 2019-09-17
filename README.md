@@ -1,6 +1,6 @@
-# hypercash price chart 
+# bytecoin-bcn price chart 
 
-hypercash price chart (matplotlib, python)
+bytecoin-bcn price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
