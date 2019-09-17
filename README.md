@@ -1,6 +1,6 @@
-# bytom price chart 
+# siacoin price chart 
 
-bytom price chart (matplotlib, python)
+siacoin price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
