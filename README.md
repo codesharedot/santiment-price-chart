@@ -1,6 +1,6 @@
-# wax price chart 
+# gxchain price chart 
 
-wax price chart (matplotlib, python)
+gxchain price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
