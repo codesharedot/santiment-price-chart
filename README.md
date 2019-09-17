@@ -1,6 +1,6 @@
-# bitcoin-diamond price chart 
+# lisk price chart 
 
-bitcoin-diamond price chart (matplotlib, python)
+lisk price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
