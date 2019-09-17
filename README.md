@@ -1,6 +1,6 @@
-# bitshares price chart 
+# hypercash price chart 
 
-bitshares price chart (matplotlib, python)
+hypercash price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
