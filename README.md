@@ -1,6 +1,6 @@
-# zilliqa price chart 
+# aeternity price chart 
 
-zilliqa price chart (matplotlib, python)
+aeternity price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
