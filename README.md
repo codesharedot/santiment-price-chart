@@ -1,6 +1,6 @@
-# zcoin price chart 
+# wink-tronbet price chart 
 
-zcoin price chart (matplotlib, python)
+wink-tronbet price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
