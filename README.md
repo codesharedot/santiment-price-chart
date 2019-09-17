@@ -1,6 +1,6 @@
-# xmax price chart 
+# aelf price chart 
 
-xmax price chart (matplotlib, python)
+aelf price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
