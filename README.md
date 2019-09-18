@@ -1,6 +1,6 @@
-# solve price chart 
+# decentraland price chart 
 
-solve price chart (matplotlib, python)
+decentraland price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
