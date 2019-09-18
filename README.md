@@ -1,6 +1,6 @@
-# stasis-euro price chart 
+# solve price chart 
 
-stasis-euro price chart (matplotlib, python)
+solve price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
