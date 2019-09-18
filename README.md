@@ -1,6 +1,6 @@
-# decentraland price chart 
+# stasis-euro price chart 
 
-decentraland price chart (matplotlib, python)
+stasis-euro price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
