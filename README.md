@@ -1,6 +1,6 @@
-# wanchain price chart 
+# enigma price chart 
 
-wanchain price chart (matplotlib, python)
+enigma price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
