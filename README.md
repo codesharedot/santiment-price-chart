@@ -1,6 +1,6 @@
-# fantom price chart 
+# wanchain price chart 
 
-fantom price chart (matplotlib, python)
+wanchain price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
