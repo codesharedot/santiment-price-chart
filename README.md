@@ -1,6 +1,6 @@
-# aragon price chart 
+# santiment price chart 
 
-aragon price chart (matplotlib, python)
+santiment price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
