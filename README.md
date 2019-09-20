@@ -1,6 +1,6 @@
-# factom price chart 
+# waykichain price chart 
 
-factom price chart (matplotlib, python)
+waykichain price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
