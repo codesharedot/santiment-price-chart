@@ -1,6 +1,6 @@
-# zencash price chart 
+# factom price chart 
 
-zencash price chart (matplotlib, python)
+factom price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
