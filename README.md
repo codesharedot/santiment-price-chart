@@ -1,6 +1,6 @@
-# qash price chart 
+# digixdao price chart 
 
-qash price chart (matplotlib, python)
+digixdao price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
