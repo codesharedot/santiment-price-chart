@@ -1,6 +1,6 @@
-# enigma price chart 
+# aragon price chart 
 
-enigma price chart (matplotlib, python)
+aragon price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
