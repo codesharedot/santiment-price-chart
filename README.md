@@ -1,6 +1,6 @@
-# digixdao price chart 
+# fantom price chart 
 
-digixdao price chart (matplotlib, python)
+fantom price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
