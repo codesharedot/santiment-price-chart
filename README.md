@@ -1,6 +1,6 @@
-# stasis-euro price chart 
+# gxchain price chart 
 
-stasis-euro price chart (matplotlib, python)
+gxchain price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
