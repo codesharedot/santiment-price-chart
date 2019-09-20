@@ -1,6 +1,6 @@
-# matic-network price chart 
+# qash price chart 
 
-matic-network price chart (matplotlib, python)
+qash price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
