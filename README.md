@@ -1,6 +1,6 @@
-# waykichain price chart 
+# matic-network price chart 
 
-waykichain price chart (matplotlib, python)
+matic-network price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
