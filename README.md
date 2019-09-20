@@ -1,6 +1,6 @@
-# gxchain price chart 
+# zencash price chart 
 
-gxchain price chart (matplotlib, python)
+zencash price chart (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
